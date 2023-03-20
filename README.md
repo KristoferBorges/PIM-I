@@ -8,8 +8,8 @@ Lógica, Estatística e Desenvolvimento Sustentável, os alunos deverão desenvo
 pesquisa em empresas sobre informática e sustentabilidade.
 
 # Responsáveis
-Kristofer
-Naty
-Daniel
+Kristofer S. Borges
+Naty Vitória D. C. Pires
+Daniel Lopes S. Moreira
 
 OBS: Logo será inserido os links para seus perfis
