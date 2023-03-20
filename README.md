@@ -1,5 +1,5 @@
 # PIM-I
-UNIP - Universidade Paulista
+UNIP - Universidade Paulista | 
 PESQUISA SOBRE EMPRESA E SUA SUSTENTABILIDADE
 
 # Assunto em questão
