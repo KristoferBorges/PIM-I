@@ -9,7 +9,9 @@ pesquisa em empresas sobre informática e sustentabilidade.
 
 # Responsáveis
 Kristofer S. Borges | 
-Naty Vitória D. C. Pires | 
+Naty Vitória D. C. Pires |
 Daniel Lopes S. Moreira | 
 
-OBS: Logo será inserido os links para seus perfis
+# Perfil do GitHub
+https://github.com/KristoferBorges/
+https://github.com/Nathaly-v
